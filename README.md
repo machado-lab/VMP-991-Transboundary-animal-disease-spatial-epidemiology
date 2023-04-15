@@ -4,7 +4,7 @@
 
 Selective Syllabus
 
-### VMP991 â€“ Transboundary animal disease &amp; spatial epidemiology
+### VMP991 “ Transboundary animal disease &amp; spatial epidemiology
 
 ### Course Description
 
