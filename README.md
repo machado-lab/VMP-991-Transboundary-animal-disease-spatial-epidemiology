@@ -1,6 +1,6 @@
 # VMP_991_Transboundary-animal-disease-spatial-epidemiology
 
-## April 17 - 21, 2023.
+## April 17 - 21, 2023 @RB-294
 
 Selective Syllabus
 
@@ -54,7 +54,7 @@ Phone:(919) 513-6249
 
 Office Hours: By Appointment
 
-Office Location: RB-294
+Office Location: RB-450
 
 ### Instructors (if others)
 
