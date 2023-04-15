@@ -1,6 +1,6 @@
 # VMP_991_Transboundary-animal-disease-spatial-epidemiology
 
-## April 17 - 21, 2023 @RB-294
+## April 17 - 21, 2023 @Research Building-294
 
 Selective Syllabus
 
