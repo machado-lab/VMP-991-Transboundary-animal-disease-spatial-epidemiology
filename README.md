@@ -162,8 +162,8 @@ Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/
 1.30-5.00 Individual Study: Students work individually on a paper assignment.[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
 **Thursday**
-
-9.00-11.00 Lab: Felipe all distance base codes and other analysis
+_
+9.00-11.00 Lab: Felipe all distance base codes and other analysis [Lab_2]((https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
 
 11.00-12.30 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
