@@ -128,32 +128,34 @@ NC State University provides equality of opportunity in education and employment
 
 ###**Monday**
 
-9.00-9.30 	Introductions, review syllabus, course expectations, and goals (GM)-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD0.pdf)
+9.00-9.30 	Introductions, review syllabus, course expectations, and goals **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD0.pdf)
 
-9.30-10.30 Lecture and Group Discussion- Foreign animal disease vs transboundary animal diseases-main emerging TADs (GM)-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/TAD.pdf)
+9.30-10.30 Lecture and Group Discussion- Foreign animal disease vs transboundary animal diseases-main emerging TADs **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/TAD.pdf)
 
-10.30-12:00 Lecture: Transboundary animal diseases-global repository and issues with secondary data in disease surveillance and tools (GM)-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD_repositories-compressed.pdf)
+10.30-12:00 Lecture: Transboundary animal diseases-global repository and issues with secondary data in disease surveillance and tools **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD_repositories-compressed.pdf)
 
 12.00-1.00 Lunch
 
 1.00-5.00 Lab: Group assignment projects.
 Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/10.1186/s40813-018-0109-2)
+Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.1054271/full)
+
 
 ###**Tuesday**
 
-9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) (Felipe)-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
+9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
-10:30-11.00 Lecture- Introduction to concepts of disease ecology and their application to transboundary animal diseases data (Felipe)-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_disease%20ecology.pdf)
+10:30-11.00 Lecture- Introduction to concepts of disease ecology and their application to transboundary animal diseases data **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_disease%20ecology.pdf)
  
-11.00-12.00 Lab: Download TADs data and integrate to spatial scale (Group assignment in R) (Felipe-(https://empres-i.apps.fao.org/) [Tutorial presentation](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_EMPRESi.pdf)
+11.00-12.00 Lab: Download TADs data and integrate to spatial scale (Group assignment in R) **(Felipe)**-(https://empres-i.apps.fao.org/) [Tutorial presentation](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_EMPRESi.pdf)
 
 12.00-1.00 Lunch
 
-1.00-3:00 Lab: Practice with data provided by the instructor (GM)-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
+1.00-3:00 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
 
 ###**Wednesday** 
 
-9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map (GM) [Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code)
+9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)** [Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
 
 10.30-12.00 Lab: Students work in groups on project assignments (Group assignment in R and start reading)
 
@@ -162,8 +164,8 @@ Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/
 1.30-5.00 Individual Study: Students work individually on a paper assignment.[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
 ###**Thursday**
-_
-9.00-11.00 Lab: Felipe all distance base codes and other analysis [Lab_2]((https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
+
+9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2]((https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
 
 11.00-12.30 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
