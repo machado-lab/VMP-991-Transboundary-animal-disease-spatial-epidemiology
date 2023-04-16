@@ -130,9 +130,9 @@ NC State University provides equality of opportunity in education and employment
 
 9.00-9.30 	Introductions, review syllabus, course expectations, and goals **(GM)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
-9.30-10.30 Lecture and Group Discussion- Foreign animal disease vs transboundary animal diseases-main emerging TADs **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/TAD.pdf)
+9.30-10.30 Lecture and Group Discussion- Foreign animal disease vs transboundary animal diseases-main emerging TADs **(GM)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/TAD.pdf)
 
-10.30-12:00 Lecture: Transboundary animal diseases-global repository and issues with secondary data in disease surveillance and tools **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD_repositories-compressed.pdf)
+10.30-12:00 Lecture: Transboundary animal diseases-global repository and issues with secondary data in disease surveillance and tools **(GM)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD_repositories-compressed.pdf)
 
 12.00-1.00 Lunch
 
@@ -143,11 +143,11 @@ Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.105
 
 ###**Tuesday**
 
-9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture]https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
+9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
-10:30-11.00 Lecture- Introduction to concepts of disease ecology and their application to transboundary animal diseases data **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_disease%20ecology.pdf)
+10:30-11.00 Lecture- Introduction to concepts of disease ecology and their application to transboundary animal diseases data **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_disease%20ecology.pdf)
  
-11.00-12.00 Lab: Download TADs data and integrate to spatial scale (Group assignment in R) **(Felipe)**-(https://empres-i.apps.fao.org/) [Tutorial presentation](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_EMPRESi.pdf)
+11.00-12.00 Lab: Download TADs data and integrate to spatial scale (Group assignment in R) **(Felipe)**-(https://empres-i.apps.fao.org/) [Tutorial presentation](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_EMPRESi.pdf)
 
 12.00-1.00 Lunch
 
