@@ -143,7 +143,7 @@ Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.105
 
 ###**Tuesday**
 
-9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
+9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture]https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
 10:30-11.00 Lecture- Introduction to concepts of disease ecology and their application to transboundary animal diseases data **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_disease%20ecology.pdf)
  
