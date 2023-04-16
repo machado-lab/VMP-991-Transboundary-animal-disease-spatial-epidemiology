@@ -151,11 +151,11 @@ Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.105
 
 12.00-1.00 Lunch
 
-1.00-3:00 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
+1.00-3:00 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
 
 ###**Wednesday** 
 
-9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)** [Code](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
+9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)** [Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
 
 10.30-12.00 Lab: Students work in groups on project assignments (Group assignment in R and start reading)
 
@@ -165,7 +165,7 @@ Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.105
 
 ###**Thursday**
 
-9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2]((https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
+9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
 
 11.00-12.30 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
