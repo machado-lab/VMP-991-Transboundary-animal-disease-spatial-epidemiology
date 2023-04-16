@@ -128,7 +128,7 @@ NC State University provides equality of opportunity in education and employment
 
 ###**Monday**
 
-9.00-9.30 	Introductions, review syllabus, course expectations, and goals **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD0.pdf)
+9.00-9.30 	Introductions, review syllabus, course expectations, and goals **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD0.pdf](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
 9.30-10.30 Lecture and Group Discussion- Foreign animal disease vs transboundary animal diseases-main emerging TADs **(GM)**-[Lecture](https://github.com/machado-lab/VMP_991_Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/TAD.pdf)
 
