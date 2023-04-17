@@ -136,7 +136,7 @@ NC State University provides equality of opportunity in education and employment
 
 12.00-1.00 Lunch
 
-1.00-5.00 Lab: Group assignment projects.
+1.00-5.00 Lab: Assignment, write a one-page summary of the main conclusion of both papers (submit by email to gmachad@ncsu.edu) by tomorrow morning 9 am.
 1. Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/10.1186/s40813-018-0109-2)
 
 2. Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.1054271/full)
@@ -167,13 +167,11 @@ NC State University provides equality of opportunity in education and employment
 
 9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
 
-11.00-12.30 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+11.00-12.30 Work with data from Poland and replicate the analysis done with DR data.
 
 12.30-1.30 Lunch
 
-1.30-3.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
-
-3.00-5.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+1.30-5.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit) & Work with data from Poland and replicate the analysis done with DR data.
 
 ###**Friday**
 
