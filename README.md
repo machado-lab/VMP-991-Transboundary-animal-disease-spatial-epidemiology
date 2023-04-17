@@ -155,26 +155,26 @@ Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.105
 
 ###**Wednesday** 
 
-9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)** [Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
+9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)**-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
 
 10.30-12.00 Lab: Students work in groups on project assignments (Group assignment in R and start reading)
 
 12.30-1.30 Lunch
 
-1.30-5.00 Individual Study: Students work individually on a paper assignment.[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+1.30-5.00 Individual Study: Students work individually on a paper assignment-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
 ###**Thursday**
 
 9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
 
-11.00-12.30 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+11.00-12.30 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
 12.30-1.30 Lunch
 
-1.30-3.00 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+1.30-3.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
-3.00-5.00 Group writing short communication[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+3.00-5.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
 ###**Friday**
 
-9.00-11:00 Time to finish writing and next step for authors that would like to be part of the publication [Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
+9.00-11:00 Time to finish writing and next step for authors that would like to be part of the publication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
