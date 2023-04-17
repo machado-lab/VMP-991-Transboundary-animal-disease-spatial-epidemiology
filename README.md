@@ -126,7 +126,7 @@ NC State University provides equality of opportunity in education and employment
 
 **NOTE:** The course schedule is subject to change.
 
-###**Monday**
+### **Monday**
 
 9.00-9.30 	Introductions, review syllabus, course expectations, and goals **(GM)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/1-TAD0.pdf)
 
@@ -141,7 +141,7 @@ NC State University provides equality of opportunity in education and employment
 
 2. Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.1054271/full)
 
-###**Tuesday**
+### **Tuesday**
 
 9.00-10.00 Lecture- Introduction to spatial data point, polygons and raster-open source (data repositories) **(Felipe)**-[Lecture](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/lectures/VMP_spatial.pdf)
 
@@ -153,7 +153,7 @@ NC State University provides equality of opportunity in education and employment
 
 1.00-3:00 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
 
-###**Wednesday** 
+### **Wednesday** 
 
 9.00-10.30 Lab: Practice with data provided by the instructor-from a table to a map **(GM)**-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd)
 
@@ -163,7 +163,7 @@ NC State University provides equality of opportunity in education and employment
 
 1.30-5.00 Individual Study: Students work individually on a paper assignment-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
 
-###**Thursday**
+### **Thursday**
 
 9.00-11.00 Lab: **(Felipe)** all distance base codes and other analysis [Lab_2](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_2.Rmd) and show how to do in QGIS
 
@@ -173,6 +173,6 @@ NC State University provides equality of opportunity in education and employment
 
 1.30-5.00 Group writing short communication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit) & Work with data from Poland and replicate the analysis done with DR data.
 
-###**Friday**
+### **Friday**
 
 9.00-11:00 Time to finish writing and next step for authors that would like to be part of the publication-[Draft](https://docs.google.com/document/d/1wteA12kV7-80EO59Y5Y30it7bZKXpAfSVqW4sSuQzGI/edit)
