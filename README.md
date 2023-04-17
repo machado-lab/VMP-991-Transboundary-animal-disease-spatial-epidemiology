@@ -137,9 +137,9 @@ NC State University provides equality of opportunity in education and employment
 12.00-1.00 Lunch
 
 1.00-5.00 Lab: Group assignment projects.
-Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/10.1186/s40813-018-0109-2)
-Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.1054271/full)
+1. Reading ASF [Paper1](https://porcinehealthmanagement.biomedcentral.com/articles/10.1186/s40813-018-0109-2)
 
+2. Reading ASF [Paper2](https://www.frontiersin.org/articles/10.3389/fvets.2022.1054271/full)
 
 ###**Tuesday**
 
