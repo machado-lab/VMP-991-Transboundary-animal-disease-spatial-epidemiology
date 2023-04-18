@@ -58,3 +58,117 @@ data%>%
   dplyr::summarize(n=n())%>%
   mutate(prop=n/sum(n))%>%
   arrange(desc(n))
+
+
+### 3.1. Descriptive plots
+
+# Total number of cases by continent
+data%>%
+  group_by(Region)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  ungroup() %>%
+  arrange(desc(n))%>% 
+  ggplot(aes(reorder(Region,+ n), n)) +
+  geom_bar(stat="identity") + coord_flip()+
+  scale_y_continuous(breaks = seq(0,30000,by = 5000))+
+  labs(x="Continent", y="Total number of cases")+
+  theme(text = element_text(size = 12, face = "bold"),
+        legend.title = element_text(size = 12))
+
+ggsave("./fig/count_region.tiff", plot = last_plot(), 
+       dpi = 300, width = 200, height = 160, units = "mm")
+
+# Total number of cases by country
+data%>%
+  dplyr::group_by(Country)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  ungroup() %>%
+  arrange(desc(n))%>% 
+  ggplot(aes(reorder(Country,+ n), n)) +
+  scale_y_continuous(breaks = seq(0,30000,by = 5000))+
+  geom_bar(stat="identity") + coord_flip()+
+  labs(x="Country", y="Total number of cases")+
+  theme(text = element_text(size = 12, face = "bold"),
+        legend.title = element_text(size = 12))
+
+ggsave("./fig/count_country.tiff", plot = last_plot(), 
+       dpi = 300, width = 200, height = 160, units = "mm")
+
+## fix label check the number of cases NAA as back
+## Total number of cases by host
+data%>%
+  group_by(Species)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  drop_na()%>%
+  filter(n>1)%>%
+  ungroup() %>%
+  arrange(desc(n))%>% 
+  ggplot(aes(reorder(Species,+ n), n)) +
+  scale_y_continuous(breaks = seq(0,16715,by = 5000))+
+  geom_bar(stat="identity") + coord_flip()+
+  labs(x="Species", y="Total number of cases")+
+  theme(text = element_text(size = 12, face = "bold"),
+        legend.title = element_text(size = 12))
+
+ggsave("./fig/count_host_species.tiff", plot = last_plot(), 
+       dpi = 300, width = 200, height = 160, units = "mm")
+
+# *Review
+data%>%
+  group_by(Region,Species)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  filter(n>1)%>%
+  ungroup() %>%
+  arrange(desc(n))%>% 
+  drop_na()%>%
+  ggplot(aes(x = Region, y = n, fill = Species)) +
+  geom_bar(stat = "identity")+
+  theme(legend.position="bottom") +
+  guides(fill=guide_legend(ncol=3))+
+  labs(x="", y="Total number of cases")+
+  theme(text = element_text(size = 12, face = "bold"),
+        legend.title = element_text(size = 12))
+
+ggsave("./fig/count_host_region.tiff", plot = last_plot(), 
+       dpi = 300, width = 200, height = 160, units = "mm")
+
+###3.2 Temporal Visualizations
+library(scales)
+
+# prepare the data for plotting 
+data$ymIN<-as.Date(data$observed_date, "%d/%m/%Y", origin = "1904-01-01")
+
+data$monthIN <- format(data$ymIN, "%m") # month
+data$dayIN <- format(data$ymIN, "%d") # day
+data$myIN <- format(data$ymIN, "%Y-%m") # month and year
+data$y <- format(data$ymIN, "%Y")
+
+###3.2.1. Create some time-series plots
+data%>%
+  group_by(Species)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  drop_na()%>%
+  dplyr::select(n,Species)%>%
+  arrange(desc(n))%>%
+  print(n = 10)
+
+data%>%
+  group_by(y,Species)%>%
+  dplyr::count(ID, sort = TRUE)%>%
+  ungroup() %>%
+  arrange(desc(n))%>%
+  ggplot(aes(x=y, y=n, color=Species)) +
+  geom_line(aes(group=Species, color=Species),size = 1) +
+  geom_point(aes(color=Species, shape=Species),size = 2)+
+  facet_wrap(~ Species)+
+  #scale_x_discrete(breaks = 2015:2019)+
+  labs(x = "Year", y = "Total number of cases") +
+  theme(text = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.title = element_text(size = 12))
+
+ggsave("./fig/count_host_time.tiff", plot = last_plot(), 
+       dpi = 300, width = 200, height = 160, units = "mm")
+
+### 3.2.2. save as rdata
+save(data, file = "data.RData")
