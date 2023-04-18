@@ -20,7 +20,7 @@ cat("\014")
 ### 2. Load and explore data
 
 # Load the data
-data0<-read.csv("../data/ASF_overview-raw-data_202203160605.csv")
+data0<-read.csv("./data/ASF_overview-raw-data_202203160605.csv")
 
 # Examine the data 
 summary(data0) # will summarize all columns
@@ -37,7 +37,6 @@ data<-data0%>%
   dplyr::select(Region,Region:report_date)%>%
   drop_na()%>%
   mutate(ID = 1) # add a new column to my data
-
 
 ## add back number of animals dead
 # data<-data%>%
