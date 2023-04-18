@@ -151,7 +151,7 @@ NC State University provides equality of opportunity in education and employment
 
 12.00-1.00 Lunch
 
-1.00-3:00 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
+1.30-3:30 Lab: Practice with data provided by the instructor **(GM)**-(Group assignment in R)-[Code](https://github.com/machado-lab/VMP-991-Transboundary-animal-disease-spatial-epidemiology/blob/main/code/VMP_lab_1.Rmd)
 
 ### **Wednesday** 
 
