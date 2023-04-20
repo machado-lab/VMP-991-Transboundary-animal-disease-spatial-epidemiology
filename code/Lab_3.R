@@ -124,50 +124,8 @@ ggplot(data = count_muni, aes(fill = m_pred_spacendvi)) +
   geom_sf(size = .05,color="grey")+
   scale_fill_viridis(option = "plasma",name="alt")
 
-#### climatic
-temp   <- raster::getData('worldclim', var='tmin', res=10) 
-temp <- crop(temp[[1]], count_muni)
-
-plot(temp)
-plot(sf::st_geometry(count_muni), add = TRUE)
-
-# plot(temp)
-# plot(sf::st_geometry(count_muni), add = TRUE)
-
-for (i in 1:length(count_muni)){
-  ex1 <- raster::extract(temp, count_muni, fun=mean, na.rm=TRUE, df=TRUE)
-}
-
-## add back
-count_muni$tmin1<-ex1$tmin1
-ggplot(data = count_muni, aes(fill =tmin1)) +
-  geom_sf(size = .05,color="grey") +
-  scale_fill_viridis(option = "plasma",name="Temperature")+
-  theme(text = element_text(size = 13, face = "bold"),
-        axis.text.x = element_text(face = "bold",size = 13),
-        axis.text.y = element_text(face = "bold",size = 13))
-
-## regression
-space.and.ndvi <- lm(as.numeric(n)~as.numeric(tmin1),
-                     data=count_muni)
-summary(space.and.ndvi)
-
-## extracting predictions and residuals:
-count_muni$m_pred_spacendvi <- as.numeric(predict(space.and.ndvi, type="response"))
-count_muni$m_resid_spacendvi <- residuals(space.and.ndvi)
-
-
-ggplot(data = count_muni, aes(fill = m_pred_spacendvi)) +
-  geom_sf(size = .05,color="grey")+
-  scale_fill_viridis(option = "plasma",name="temp")
 
 ## Plot lm altitude
 ggplot(count_muni, aes(x = alt, y = n)) + 
-  geom_point() +
-  stat_smooth(method = "lm", col = "red")
-
-
-## Plot lm temperature
-ggplot(count_muni, aes(x = tmin1, y = n)) + 
   geom_point() +
   stat_smooth(method = "lm", col = "red")
