@@ -9,8 +9,7 @@ library(viridis);
 library(mapview);library(ggmap);library(lubridate)
 
 #load data
-load("Q:/My Drive/GitHub/VMP_991_Transboundary-animal-disease-spatial-epidemiology/data/data.RData")
-
+load("Q:/My Drive/GitHub/VMP-991-Transboundary-animal-disease-spatial-epidemiology/data/data.RData")
 ## download data in sf format to merge with counts
 world <- ne_countries(scale='medium',returnclass = 'sf')
 class(world)
@@ -181,10 +180,9 @@ ggplot(data = count_casesar) +
              fill = "#444444",
              size = 1.2)+
   facet_wrap(y~ Species, nrow = 4)
-```
+
 
 ### 3. Distance based measurements
-```{r}
 #Calculate distances between points
 pointcases_dr <- st_as_sf(DRadmin, coords = c("Longitude", "Latitude"), crs=32619)
 
@@ -230,8 +228,6 @@ DT_sf = st_as_sf(datadr, coords = c("Longitude", "Latitude"),
 st_transform(pointcases_dr, crs=common_crs)
 
 plot(DT_sf)
-
-
 ## here is where we will do by species for Poland
 distsf<-DT_sf %>%
   #group_by(Species) %>%
@@ -260,4 +256,3 @@ DT_sf %>%
 ### which farms
 booths_data%>% 
   filter(IDb==1)
-
