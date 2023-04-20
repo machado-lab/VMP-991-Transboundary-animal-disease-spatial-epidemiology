@@ -1,0 +1,193 @@
+,Region,Subregion,admin,admin1,Locality,Latitude,Longitude,Diagnosis.source,Diagnosis.status,Animal.type,Species,observed_date,report_date,ID,ymIN,monthIN,dayIN,myIN,y
+1,Americas,Caribbean,Dominican Republic,Concepción de la Vega,Algarrobo,19.112215,-70.449289,OIE,Confirmed,Domestic,Swine,17/01/2022,16/02/2022,1,1/17/2022,1,17,2022-01,2022
+2,Americas,Caribbean,Dominican Republic,Villa Altagracia,amacey,18.555496,-68.583606,OIE,Confirmed,Domestic,Swine,8/12/2021,16/02/2022,1,12/8/2021,12,8,2021-12,2021
+3,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,La Sierra,18.4572,-69.1845,OIE,Confirmed,Domestic,Swine,5/12/2021,28/12/2021,1,12/5/2021,12,5,2021-12,2021
+4,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,La sierra,18.457166,-69.184462,OIE,Confirmed,Domestic,Swine,5/12/2021,16/02/2022,1,12/5/2021,12,5,2021-12,2021
+5,Americas,Caribbean,Dominican Republic,Villa Altagracia,La laguna,18.819471,-68.670135,OIE,Confirmed,Domestic,Swine,29/11/2021,28/12/2021,1,11/29/2021,11,29,2021-11,2021
+6,Americas,Caribbean,Dominican Republic,Villa Altagracia,La laguna,18.819471,-68.670135,OIE,Confirmed,Domestic,Swine,29/11/2021,16/02/2022,1,11/29/2021,11,29,2021-11,2021
+7,Americas,Caribbean,Dominican Republic,Salcedo,la ceiba,19.31436,-70.431561,OIE,Confirmed,Domestic,Swine,25/11/2021,28/12/2021,1,11/25/2021,11,25,2021-11,2021
+8,Americas,Caribbean,Dominican Republic,Salcedo,Hospital,19.314,-70.432,OIE,Confirmed,Domestic,Swine,25/11/2021,16/02/2022,1,11/25/2021,11,25,2021-11,2021
+9,Americas,Caribbean,Dominican Republic,Villa Altagracia,La llanada,18.684277,-68.737268,OIE,Confirmed,Domestic,Swine,24/11/2021,28/12/2021,1,11/24/2021,11,24,2021-11,2021
+10,Americas,Caribbean,Dominican Republic,Villa Altagracia,Hoyo bonito,18.588038,-68.770476,OIE,Confirmed,Domestic,Swine,24/11/2021,28/12/2021,1,11/24/2021,11,24,2021-11,2021
+11,Americas,Caribbean,Dominican Republic,Villa Altagracia,La llanada,18.684,-68.737,OIE,Confirmed,Domestic,Swine,24/11/2021,16/02/2022,1,11/24/2021,11,24,2021-11,2021
+12,Americas,Caribbean,Dominican Republic,Villa Altagracia,Hoyo bonito,18.588038,-68.770476,OIE,Confirmed,Domestic,Swine,24/11/2021,16/02/2022,1,11/24/2021,11,24,2021-11,2021
+13,Americas,Caribbean,Dominican Republic,Villa Altagracia,Ca?ada Honda,18.879,-68.708,OIE,Confirmed,Domestic,Swine,23/11/2021,28/12/2021,1,11/23/2021,11,23,2021-11,2021
+14,Americas,Caribbean,Dominican Republic,Villa Altagracia,ca?ada honda,18.879179,-68.707082,OIE,Confirmed,Domestic,Swine,23/11/2021,16/02/2022,1,11/23/2021,11,23,2021-11,2021
+15,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,El vertedero,18.549158,-69.30845,OIE,Confirmed,Domestic,Swine,20/11/2021,28/12/2021,1,11/20/2021,11,20,2021-11,2021
+16,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,El vertedero,18.549158,-69.30845,OIE,Confirmed,Domestic,Swine,20/11/2021,28/12/2021,1,11/20/2021,11,20,2021-11,2021
+17,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,El vertedero,18.549158,-69.30845,OIE,Confirmed,Domestic,Swine,20/11/2021,16/02/2022,1,11/20/2021,11,20,2021-11,2021
+18,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,El vertedero,18.549158,-69.30845,OIE,Confirmed,Domestic,Swine,20/11/2021,16/02/2022,1,11/20/2021,11,20,2021-11,2021
+19,Americas,Caribbean,Dominican Republic,Concepción de la Vega,Montegrande,19.238552,-70.565581,OIE,Confirmed,Domestic,Swine,20/11/2021,16/02/2022,1,11/20/2021,11,20,2021-11,2021
+20,Americas,Caribbean,Dominican Republic,Villa Altagracia,Benerito,18.466979,-68.828211,OIE,Confirmed,Domestic,Swine,19/11/2021,28/12/2021,1,11/19/2021,11,19,2021-11,2021
+21,Americas,Caribbean,Dominican Republic,Villa Altagracia,Uvero Alto,18.789632,-68.60061,OIE,Confirmed,Domestic,Swine,19/11/2021,28/12/2021,1,11/19/2021,11,19,2021-11,2021
+22,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Mata Caliche,18.590528,-69.415903,OIE,Confirmed,Domestic,Swine,19/11/2021,28/12/2021,1,11/19/2021,11,19,2021-11,2021
+23,Americas,Caribbean,Dominican Republic,Villa Altagracia,Uvero Alto,18.79,-68.601,OIE,Confirmed,Domestic,Swine,19/11/2021,16/02/2022,1,11/19/2021,11,19,2021-11,2021
+24,Americas,Caribbean,Dominican Republic,Villa Altagracia,Benerito,18.467,-68.828,OIE,Confirmed,Domestic,Swine,19/11/2021,16/02/2022,1,11/19/2021,11,19,2021-11,2021
+25,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Matacaliche,18.590528,-69.415903,OIE,Confirmed,Domestic,Swine,19/11/2021,16/02/2022,1,11/19/2021,11,19,2021-11,2021
+26,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Los Montones,18.573027,-69.440412,OIE,Confirmed,Domestic,Swine,15/11/2021,28/12/2021,1,11/15/2021,11,15,2021-11,2021
+27,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Los Montones,18.572951,-69.44055,OIE,Confirmed,Domestic,Swine,15/11/2021,28/12/2021,1,11/15/2021,11,15,2021-11,2021
+28,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Los Montones,18.57269,-69.440812,OIE,Confirmed,Domestic,Swine,15/11/2021,28/12/2021,1,11/15/2021,11,15,2021-11,2021
+29,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Los Montones,18.573,-69.441,OIE,Confirmed,Domestic,Swine,15/11/2021,16/02/2022,1,11/15/2021,11,15,2021-11,2021
+30,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Los montones,18.573,-69.44,OIE,Confirmed,Domestic,Swine,15/11/2021,16/02/2022,1,11/15/2021,11,15,2021-11,2021
+31,Americas,Caribbean,Dominican Republic,La Romana,El Gato,18.46443,-69.099911,OIE,Confirmed,Domestic,Swine,13/11/2021,28/12/2021,1,11/13/2021,11,13,2021-11,2021
+32,Americas,Caribbean,Dominican Republic,La Romana,El gato,18.465,-69.105,OIE,Confirmed,Domestic,Swine,13/11/2021,16/02/2022,1,11/13/2021,11,13,2021-11,2021
+33,Americas,Caribbean,Dominican Republic,Villa Altagracia,La llanada,18.681583,-68.733947,OIE,Confirmed,Domestic,Swine,10/11/2021,28/12/2021,1,11/10/2021,11,10,2021-11,2021
+34,Americas,Caribbean,Dominican Republic,Villa Altagracia,Lopez,18.63945,-68.781226,OIE,Confirmed,Domestic,Swine,10/11/2021,28/12/2021,1,11/10/2021,11,10,2021-11,2021
+35,Americas,Caribbean,Dominican Republic,Villa Altagracia,La llanada,18.682,-68.734,OIE,Confirmed,Domestic,Swine,10/11/2021,16/02/2022,1,11/10/2021,11,10,2021-11,2021
+36,Americas,Caribbean,Dominican Republic,Villa Altagracia,Lopez,18.639,-68.781,OIE,Confirmed,Domestic,Swine,10/11/2021,16/02/2022,1,11/10/2021,11,10,2021-11,2021
+37,Americas,Caribbean,Dominican Republic,Salcedo,Sabana angosta,19.305,-70.397,OIE,Confirmed,Domestic,Swine,10/11/2021,16/02/2022,1,11/10/2021,11,10,2021-11,2021
+38,Americas,Caribbean,Dominican Republic,Villa Altagracia,Matachalupe,18.602935,-68.734197,OIE,Confirmed,Domestic,Swine,8/11/2021,28/12/2021,1,11/8/2021,11,8,2021-11,2021
+39,Americas,Caribbean,Dominican Republic,Villa Altagracia,Mata Chalupa,18.603,-68.734,OIE,Confirmed,Domestic,Swine,8/11/2021,16/02/2022,1,11/8/2021,11,8,2021-11,2021
+40,Americas,Caribbean,Dominican Republic,La Romana,El Gato,18.467,-69.1,OIE,Confirmed,Domestic,Swine,5/11/2021,28/12/2021,1,11/5/2021,11,5,2021-11,2021
+41,Americas,Caribbean,Dominican Republic,La Romana,El gato,18.467,-69.1,OIE,Confirmed,Domestic,Swine,5/11/2021,16/02/2022,1,11/5/2021,11,5,2021-11,2021
+42,Americas,Caribbean,Dominican Republic,Villa Altagracia,the vacama,18.86883,-68.670579,OIE,Confirmed,Domestic,Swine,2/11/2021,28/12/2021,1,11/2/2021,11,2,2021-11,2021
+44,Americas,Caribbean,Dominican Republic,Duvergé,Alto de Macao,19.374,-70.221,OIE,Confirmed,Domestic,Swine,28/10/2021,9/11/2021,1,10/28/2021,10,28,2021-10,2021
+46,Americas,Caribbean,Dominican Republic,Villa Altagracia,jobo dulce,18.651227,-68.74324,OIE,Confirmed,Domestic,Swine,28/10/2021,28/12/2021,1,10/28/2021,10,28,2021-10,2021
+47,Americas,Caribbean,Dominican Republic,Villa Altagracia,jobo dulce,18.651227,-68.74324,OIE,Confirmed,Domestic,Swine,28/10/2021,16/02/2022,1,10/28/2021,10,28,2021-10,2021
+49,Americas,Caribbean,Dominican Republic,Esperanza,El Tablon,19.624,-70.451,OIE,Confirmed,Domestic,Swine,26/10/2021,9/11/2021,1,10/26/2021,10,26,2021-10,2021
+51,Americas,Caribbean,Dominican Republic,Duvergé,Barrio Lindo,19.373,-70.224,OIE,Confirmed,Domestic,Swine,21/10/2021,9/11/2021,1,10/21/2021,10,21,2021-10,2021
+53,Americas,Caribbean,Dominican Republic,Samana,La Jagua,19.157,-69.7,OIE,Confirmed,Domestic,Swine,15/10/2021,9/11/2021,1,10/15/2021,10,15,2021-10,2021
+55,Americas,Caribbean,Dominican Republic,Villa Altagracia,El Cerro,18.65,-68.729,OIE,Confirmed,Domestic,Swine,13/10/2021,9/11/2021,1,10/13/2021,10,13,2021-10,2021
+57,Americas,Caribbean,Dominican Republic,Samana,Sanchez,19.255,-69.715,OIE,Confirmed,Domestic,Swine,11/10/2021,15/10/2021,1,10/11/2021,10,11,2021-10,2021
+59,Americas,Caribbean,Dominican Republic,Villa Altagracia,Duyey,18.747,-68.65,OIE,Confirmed,Domestic,Swine,10/10/2021,9/11/2021,1,10/10/2021,10,10,2021-10,2021
+60,Americas,Caribbean,Dominican Republic,Vallejuelo,Don Bosco,19.56865,-71.078673,OIE,Confirmed,Domestic,Swine,10/10/2021,9/11/2021,1,10/10/2021,10,10,2021-10,2021
+61,Americas,Caribbean,Dominican Republic,Vallejuelo,Don Bosco,19.567892,-71.078171,OIE,Confirmed,Domestic,Swine,10/10/2021,9/11/2021,1,10/10/2021,10,10,2021-10,2021
+62,Americas,Caribbean,Dominican Republic,Vallejuelo,Don Bosco,19.56865,-71.078673,OIE,Confirmed,Domestic,Swine,8/10/2021,9/11/2021,1,10/8/2021,10,8,2021-10,2021
+63,Americas,Caribbean,Dominican Republic,Vallejuelo,Don Bosco,19.567772,-71.078161,OIE,Confirmed,Domestic,Swine,8/10/2021,9/11/2021,1,10/8/2021,10,8,2021-10,2021
+64,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Arenoso,19.727597,-70.53738,OIE,Confirmed,Domestic,Swine,8/10/2021,9/11/2021,1,10/8/2021,10,8,2021-10,2021
+65,Americas,Caribbean,Dominican Republic,Vallejuelo,Don Bosco,19.56865,-71.078673,OIE,Confirmed,Domestic,Swine,8/10/2021,9/11/2021,1,10/8/2021,10,8,2021-10,2021
+66,Americas,Caribbean,Dominican Republic,Santiago,Las Palomas,19.424121,-70.615058,OIE,Confirmed,Domestic,Swine,7/10/2021,22/10/2021,1,10/7/2021,10,7,2021-10,2021
+67,Americas,Caribbean,Dominican Republic,Vallejuelo,La jobilla,19.567,-70.989,OIE,Confirmed,Domestic,Swine,6/10/2021,9/11/2021,1,10/6/2021,10,6,2021-10,2021
+68,Americas,Caribbean,Dominican Republic,Vallejuelo,Barrio Puerto Rico,19.642,-71.086,OIE,Confirmed,Domestic,Swine,2/10/2021,9/11/2021,1,10/2/2021,10,2,2021-10,2021
+69,Americas,Caribbean,Dominican Republic,Villa Altagracia,the vacama,18.87,-68.666,OIE,Confirmed,Domestic,Swine,2/10/2021,28/12/2021,1,10/2/2021,10,2,2021-10,2021
+70,Americas,Caribbean,Dominican Republic,Villa Altagracia,La vacama,18.87,-68.666,OIE,Confirmed,Domestic,Swine,2/10/2021,16/02/2022,1,10/2/2021,10,2,2021-10,2021
+71,Americas,Caribbean,Dominican Republic,Villa Altagracia,La vacana,18.869,-68.671,OIE,Confirmed,Domestic,Swine,2/10/2021,16/02/2022,1,10/2/2021,10,2,2021-10,2021
+73,Americas,Caribbean,Dominican Republic,Duvergé,La Joya,19.360036,-70.276394,OIE,Confirmed,Domestic,Swine,30/09/2021,22/10/2021,1,9/30/2021,9,30,2021-09,2021
+74,Americas,Caribbean,Dominican Republic,Santiago,La Emboscada,19.467981,-70.759907,OIE,Confirmed,Domestic,Swine,30/09/2021,22/10/2021,1,9/30/2021,9,30,2021-09,2021
+75,Americas,Caribbean,Dominican Republic,Esperanza,La Lomita,19.433,-70.48,OIE,Confirmed,Domestic,Swine,30/09/2021,9/11/2021,1,9/30/2021,9,30,2021-09,2021
+76,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,loma de los chivos,19.725224,-70.51,OIE,Confirmed,Domestic,Swine,30/09/2021,9/11/2021,1,9/30/2021,9,30,2021-09,2021
+77,Americas,Caribbean,Dominican Republic,Vallejuelo,La Bomba,19.656771,-71.130742,OIE,Confirmed,Domestic,Swine,29/09/2021,22/10/2021,1,9/29/2021,9,29,2021-09,2021
+79,Americas,Caribbean,Dominican Republic,Salcedo,La Guasuma,19.311371,-70.376909,OIE,Confirmed,Domestic,Swine,29/09/2021,9/11/2021,1,9/29/2021,9,29,2021-09,2021
+80,Americas,Caribbean,Dominican Republic,Esperanza,El Higuero,19.434,-70.469,OIE,Confirmed,Domestic,Swine,28/09/2021,9/11/2021,1,9/28/2021,9,28,2021-09,2021
+81,Americas,Caribbean,Dominican Republic,Duvergé,La Gina,19.194602,-70.09977,OIE,Confirmed,Domestic,Swine,26/09/2021,9/11/2021,1,9/26/2021,9,26,2021-09,2021
+84,Americas,Caribbean,Dominican Republic,Santiago,La Emboscada,19.463,-70.755,OIE,Confirmed,Domestic,Swine,19/09/2021,9/11/2021,1,9/19/2021,9,19,2021-09,2021
+85,Americas,Caribbean,Dominican Republic,Santiago,La emboscada,19.462539,-70.756322,OIE,Confirmed,Domestic,Swine,19/09/2021,9/11/2021,1,9/19/2021,9,19,2021-09,2021
+86,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,cabral,18.247,-71.22,OIE,Confirmed,Domestic,Swine,16/09/2021,22/10/2021,1,9/16/2021,9,16,2021-09,2021
+87,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,cabral,18.247,-71.22,OIE,Confirmed,Domestic,Swine,16/09/2021,22/10/2021,1,9/16/2021,9,16,2021-09,2021
+89,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Jaime S?nchez,18.295634,-71.199647,OIE,Confirmed,Domestic,Swine,14/09/2021,9/11/2021,1,9/14/2021,9,14,2021-09,2021
+90,Americas,Caribbean,Dominican Republic,Duvergé,the guasumas,19.3,-70.244,OIE,Confirmed,Domestic,Swine,13/09/2021,22/10/2021,1,9/13/2021,9,13,2021-09,2021
+91,Americas,Caribbean,Dominican Republic,Santiago,lyceum to the middle,19.45349,-70.60074,OIE,Confirmed,Domestic,Swine,13/09/2021,22/10/2021,1,9/13/2021,9,13,2021-09,2021
+92,Americas,Caribbean,Dominican Republic,Vallejuelo,La Bomba,19.656598,-71.130484,OIE,Confirmed,Domestic,Swine,10/9/2021,5/10/2021,1,9/10/2021,9,10,2021-09,2021
+94,Americas,Caribbean,Dominican Republic,Santo Domingo Este,Palamara,18.558909,-70.031892,OIE,Confirmed,Domestic,Swine,8/9/2021,9/11/2021,1,9/8/2021,9,8,2021-09,2021
+95,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Jaquimelles,18.333382,-71.150619,OIE,Confirmed,Domestic,Swine,7/9/2021,22/10/2021,1,9/7/2021,9,7,2021-09,2021
+96,Americas,Caribbean,Dominican Republic,Santiago,Santa Lucia,19.4141,-70.6293,OIE,Confirmed,Domestic,Swine,7/9/2021,9/11/2021,1,9/7/2021,9,7,2021-09,2021
+97,Americas,Caribbean,Dominican Republic,Santiago,Los Burgos  Licey Al Medio,19.414111,-70.629296,OIE,Confirmed,Domestic,Swine,7/9/2021,9/11/2021,1,9/7/2021,9,7,2021-09,2021
+98,Americas,Caribbean,Dominican Republic,Duvergé,Cuaba,19.2346,-70.2155,OIE,Confirmed,Domestic,Swine,6/9/2021,21/09/2021,1,9/6/2021,9,6,2021-09,2021
+99,Americas,Caribbean,Dominican Republic,Santo Domingo Este,La Cuaba,18.624972,-70.054139,OIE,Confirmed,Domestic,Swine,6/9/2021,20/09/2021,1,9/6/2021,9,6,2021-09,2021
+100,Americas,Caribbean,Dominican Republic,Vallejuelo,La Bomba,19.656598,-71.130448,OIE,Confirmed,Domestic,Swine,6/9/2021,5/10/2021,1,9/6/2021,9,6,2021-09,2021
+101,Americas,Caribbean,Dominican Republic,Duvergé,Cuaba,19.2827,-70.2339,OIE,Confirmed,Domestic,Swine,6/9/2021,5/10/2021,1,9/6/2021,9,6,2021-09,2021
+102,Americas,Caribbean,Dominican Republic,Santiago,cienfuegos,19.476721,-70.755424,OIE,Confirmed,Domestic,Swine,6/9/2021,22/10/2021,1,9/6/2021,9,6,2021-09,2021
+103,Americas,Caribbean,Dominican Republic,Baoruco,Mena Abajo,18.337516,-71.211624,OIE,Confirmed,Domestic,Swine,4/9/2021,21/09/2021,1,9/4/2021,9,4,2021-09,2021
+104,Americas,Caribbean,Dominican Republic,Baoruco,Mena Abajo,18.337516,-71.211624,OIE,Confirmed,Domestic,Swine,4/9/2021,21/09/2021,1,9/4/2021,9,4,2021-09,2021
+105,Americas,Caribbean,Dominican Republic,Baoruco,Mena Abajo,18.336607,-71.210629,OIE,Confirmed,Domestic,Swine,4/9/2021,21/09/2021,1,9/4/2021,9,4,2021-09,2021
+106,Americas,Caribbean,Dominican Republic,Baoruco,Mena Abajo,18.336558,-71.210978,OIE,Confirmed,Domestic,Swine,4/9/2021,21/09/2021,1,9/4/2021,9,4,2021-09,2021
+107,Americas,Caribbean,Dominican Republic,Baoruco,Mena Abajo,18.337,-71.211,OIE,Confirmed,Domestic,Swine,4/9/2021,9/11/2021,1,9/4/2021,9,4,2021-09,2021
+108,Americas,Caribbean,Dominican Republic,Santiago,Los Rieles,19.496944,-70.742478,OIE,Confirmed,Domestic,Swine,2/9/2021,5/10/2021,1,9/2/2021,9,2,2021-09,2021
+109,Americas,Caribbean,Dominican Republic,Santiago,Santa Lucia,19.474208,-70.750197,OIE,Confirmed,Domestic,Swine,2/9/2021,22/10/2021,1,9/2/2021,9,2,2021-09,2021
+110,Americas,Caribbean,Dominican Republic,Santiago,Los Rieles,19.496944,-70.742478,OIE,Confirmed,Domestic,Swine,2/9/2021,9/11/2021,1,9/2/2021,9,2,2021-09,2021
+111,Americas,Caribbean,Dominican Republic,Santiago,Los Rieles,19.49699,-70.743012,OIE,Confirmed,Domestic,Swine,2/9/2021,9/11/2021,1,9/2/2021,9,2,2021-09,2021
+112,Americas,Caribbean,Dominican Republic,Monte Plata,Hato Viejo,18.698222,-70.055833,OIE,Confirmed,Domestic,Swine,1/9/2021,13/09/2021,1,9/1/2021,9,1,2021-09,2021
+113,Americas,Caribbean,Dominican Republic,Monte Plata,Valle Encantado,18.7153,-70.1084,OIE,Confirmed,Domestic,Swine,1/9/2021,21/09/2021,1,9/1/2021,9,1,2021-09,2021
+114,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,saint cross,18.279,-71.316,OIE,Confirmed,Domestic,Swine,1/9/2021,22/10/2021,1,9/1/2021,9,1,2021-09,2021
+115,Americas,Caribbean,Dominican Republic,Santo Domingo Este,La Victoria,18.612928,-69.930221,OIE,Confirmed,Domestic,Swine,30/08/2021,13/09/2021,1,8/30/2021,8,30,2021-08,2021
+116,Americas,Caribbean,Dominican Republic,Santo Domingo Este,km 20  Yamasa road,18.657889,-69.930221,OIE,Confirmed,Domestic,Swine,30/08/2021,5/10/2021,1,8/30/2021,8,30,2021-08,2021
+117,Americas,Caribbean,Dominican Republic,Santiago,the old lane,19.568,-70.865,OIE,Confirmed,Domestic,Swine,30/08/2021,22/10/2021,1,8/30/2021,8,30,2021-08,2021
+118,Americas,Caribbean,Dominican Republic,Vallejuelo,Mao,19.528091,-70.949866,OIE,Confirmed,Domestic,Swine,27/08/2021,22/10/2021,1,8/27/2021,8,27,2021-08,2021
+119,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,villa vasquez,19.811868,-71.384399,OIE,Confirmed,Domestic,Swine,27/08/2021,22/10/2021,1,8/27/2021,8,27,2021-08,2021
+120,Americas,Caribbean,Dominican Republic,Santiago,the rails,19.496903,-70.743434,OIE,Confirmed,Domestic,Swine,27/08/2021,21/10/2021,1,8/27/2021,8,27,2021-08,2021
+123,Americas,Caribbean,Dominican Republic,San Cristóbal,Los Montones,18.4796,-70.1103,OIE,Confirmed,Domestic,Swine,26/08/2021,9/11/2021,1,8/26/2021,8,26,2021-08,2021
+124,Americas,Caribbean,Dominican Republic,Concepción de la Vega,La Joyita,19.236139,-70.485833,OIE,Confirmed,Domestic,Swine,25/08/2021,21/09/2021,1,8/25/2021,8,25,2021-08,2021
+125,Americas,Caribbean,Dominican Republic,Duvergé,great savannah,19.172882,-70.072935,OIE,Confirmed,Domestic,Swine,25/08/2021,21/09/2021,1,8/25/2021,8,25,2021-08,2021
+126,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Caleton,17.910471,-71.221602,OIE,Confirmed,Domestic,Swine,25/08/2021,21/09/2021,1,8/25/2021,8,25,2021-08,2021
+127,Americas,Caribbean,Dominican Republic,Duvergé,Los Rieles,19.181338,-70.067592,OIE,Confirmed,Domestic,Swine,25/08/2021,21/09/2021,1,8/25/2021,8,25,2021-08,2021
+128,Americas,Caribbean,Dominican Republic,Santiago,Uberal,19.419974,-70.616312,OIE,Confirmed,Domestic,Swine,25/08/2021,9/11/2021,1,8/25/2021,8,25,2021-08,2021
+129,Americas,Caribbean,Dominican Republic,Duvergé,Mata Larga,19.285193,-70.240121,OIE,Confirmed,Domestic,Swine,24/08/2021,21/09/2021,1,8/24/2021,8,24,2021-08,2021
+131,Americas,Caribbean,Dominican Republic,Salcedo,El Coco,19.312665,-70.381938,OIE,Confirmed,Domestic,Swine,24/08/2021,21/09/2021,1,8/24/2021,8,24,2021-08,2021
+133,Americas,Caribbean,Dominican Republic,Duvergé,La Gina,19.1911,-70.1038,OIE,Confirmed,Domestic,Swine,23/08/2021,21/09/2021,1,8/23/2021,8,23,2021-08,2021
+134,Americas,Caribbean,Dominican Republic,Esperanza,La Percha,19.439328,-70.48165,OIE,Confirmed,Domestic,Swine,23/08/2021,5/10/2021,1,8/23/2021,8,23,2021-08,2021
+135,Americas,Caribbean,Dominican Republic,Vallejuelo,Next to the slaughterhouse,19.574392,-70.997059,OIE,Confirmed,Domestic,Swine,22/08/2021,5/10/2021,1,8/22/2021,8,22,2021-08,2021
+136,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,the union,19.748531,-70.575762,OIE,Confirmed,Domestic,Swine,22/08/2021,22/10/2021,1,8/22/2021,8,22,2021-08,2021
+139,Americas,Caribbean,Dominican Republic,Monte Plata,Hatillo,18.756678,-69.822569,OIE,Confirmed,Domestic,Swine,20/08/2021,22/10/2021,1,8/20/2021,8,20,2021-08,2021
+140,Americas,Caribbean,Dominican Republic,Pedernales,Oviedo,17.802094,-71.403059,OIE,Confirmed,Domestic,Swine,19/08/2021,21/09/2021,1,8/19/2021,8,19,2021-08,2021
+141,Americas,Caribbean,Dominican Republic,Santo Domingo Este,batey of guanuma,18.696385,-69.927268,OIE,Confirmed,Domestic,Swine,18/08/2021,22/10/2021,1,8/18/2021,8,18,2021-08,2021
+142,Americas,Caribbean,Dominican Republic,Santo Domingo Este,the guayuyos,18.568,-69.853,OIE,Confirmed,Domestic,Swine,17/08/2021,22/10/2021,1,8/17/2021,8,17,2021-08,2021
+143,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Las Salinas,18.273,-71.315,OIE,Confirmed,Domestic,Swine,17/08/2021,22/10/2021,1,8/17/2021,8,17,2021-08,2021
+146,Americas,Caribbean,Dominican Republic,Vallejuelo,Bisono,19.571,-70.905,OIE,Confirmed,Domestic,Swine,16/08/2021,22/10/2021,1,8/16/2021,8,16,2021-08,2021
+147,Americas,Caribbean,Dominican Republic,San Cristóbal,Hatillo,18.441,-70.086,OIE,Confirmed,Domestic,Swine,16/08/2021,22/10/2021,1,8/16/2021,8,16,2021-08,2021
+148,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Montellano,19.754274,-70.592486,OIE,Confirmed,Domestic,Swine,15/08/2021,28/12/2021,1,8/15/2021,8,15,2021-08,2021
+149,Americas,Caribbean,Dominican Republic,Duvergé,Los Cacaos,19.1565,-69.7819,OIE,Confirmed,Domestic,Swine,14/08/2021,21/09/2021,1,8/14/2021,8,14,2021-08,2021
+150,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Los Dajaos,19.805,-70.782,OIE,Confirmed,Domestic,Swine,14/08/2021,22/10/2021,1,8/14/2021,8,14,2021-08,2021
+152,Americas,Caribbean,Dominican Republic,La Romana,La Noria  Basurero,18.468,-69.1,OIE,Confirmed,Domestic,Swine,12/8/2021,7/9/2021,1,8/12/2021,8,12,2021-08,2021
+153,Americas,Caribbean,Dominican Republic,Duvergé,El Aguacate,19.319164,-70.226927,OIE,Confirmed,Domestic,Swine,12/8/2021,21/09/2021,1,8/12/2021,8,12,2021-08,2021
+154,Americas,Caribbean,Dominican Republic,Duvergé,entrance of the duartes,19.410147,-70.105699,OIE,Confirmed,Domestic,Swine,12/8/2021,21/09/2021,1,8/12/2021,8,12,2021-08,2021
+156,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Las Avispas,19.791,-70.819,OIE,Confirmed,Domestic,Swine,12/8/2021,22/10/2021,1,8/12/2021,8,12,2021-08,2021
+158,Americas,Caribbean,Dominican Republic,Villa Altagracia,Benerito Gato,18.429,-68.853,OIE,Confirmed,Domestic,Swine,10/8/2021,7/9/2021,1,8/10/2021,8,10,2021-08,2021
+159,Americas,Caribbean,Dominican Republic,Santiago,Quebrada Onda,19.395635,-70.680385,OIE,Confirmed,Domestic,Swine,10/8/2021,21/09/2021,1,8/10/2021,8,10,2021-08,2021
+160,Americas,Caribbean,Dominican Republic,Santiago,La Gloria,19.491533,-70.748952,OIE,Confirmed,Domestic,Swine,10/8/2021,21/09/2021,1,8/10/2021,8,10,2021-08,2021
+162,Americas,Caribbean,Dominican Republic,San José de Ocoa,the bar,18.558,-70.497,OIE,Confirmed,Domestic,Swine,10/8/2021,22/10/2021,1,8/10/2021,8,10,2021-08,2021
+163,Americas,Caribbean,Dominican Republic,Santiago,the rails,19.498053,-70.745985,OIE,Confirmed,Domestic,Swine,10/8/2021,22/10/2021,1,8/10/2021,8,10,2021-08,2021
+164,Americas,Caribbean,Dominican Republic,Santiago,Ensanche Hermana Mirabal,19.488921,-70.777885,OIE,Confirmed,Domestic,Swine,10/8/2021,9/11/2021,1,8/10/2021,8,10,2021-08,2021
+165,Americas,Caribbean,Dominican Republic,Santo Domingo Este,La Sabana de Maguana,19.455904,-71.262846,OIE,Confirmed,Domestic,Swine,9/8/2021,25/08/2021,1,8/9/2021,8,9,2021-08,2021
+166,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Las Merceditas,17.953919,-71.187777,OIE,Confirmed,Domestic,Swine,8/8/2021,25/08/2021,1,8/8/2021,8,8,2021-08,2021
+167,Americas,Caribbean,Dominican Republic,Santo Domingo Este,avocados,18.612072,-70.03524,OIE,Confirmed,Domestic,Swine,8/8/2021,22/10/2021,1,8/8/2021,8,8,2021-08,2021
+168,Americas,Caribbean,Dominican Republic,Santa Cruz de Barahona,Town center,18.27382,-71.317752,OIE,Confirmed,Domestic,Swine,7/8/2021,5/10/2021,1,8/7/2021,8,7,2021-08,2021
+169,Americas,Caribbean,Dominican Republic,Santo Domingo Este,blood,18.693,-69.923,OIE,Confirmed,Domestic,Swine,6/8/2021,22/10/2021,1,8/6/2021,8,6,2021-08,2021
+170,Americas,Caribbean,Dominican Republic,Santiago,cienfuegos,19.474208,-70.750197,OIE,Confirmed,Domestic,Swine,6/8/2021,22/10/2021,1,8/6/2021,8,6,2021-08,2021
+171,Americas,Caribbean,Dominican Republic,Santo Domingo Este,Meseta,19.388515,-71.208877,OIE,Confirmed,Domestic,Swine,5/8/2021,24/08/2021,1,8/5/2021,8,5,2021-08,2021
+172,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Batey Alejandro Baes,18.583,-69.264,OIE,Confirmed,Domestic,Swine,5/8/2021,7/9/2021,1,8/5/2021,8,5,2021-08,2021
+173,Americas,Caribbean,Dominican Republic,San Pedro de Macoris,Las Yayas,18.51,-69.182,OIE,Confirmed,Domestic,Swine,5/8/2021,7/9/2021,1,8/5/2021,8,5,2021-08,2021
+174,Americas,Caribbean,Dominican Republic,Santiago,La Canela,19.497275,-70.794408,OIE,Confirmed,Domestic,Swine,5/8/2021,22/10/2021,1,8/5/2021,8,5,2021-08,2021
+175,Americas,Caribbean,Dominican Republic,Esperanza,La Lomita,19.437834,-70.478277,OIE,Confirmed,Domestic,Swine,3/8/2021,25/08/2021,1,8/3/2021,8,3,2021-08,2021
+176,Americas,Caribbean,Dominican Republic,Santiago,Cruce Quinigua,19.519432,-70.770921,OIE,Confirmed,Domestic,Swine,2/8/2021,25/08/2021,1,8/2/2021,8,2,2021-08,2021
+177,Americas,Caribbean,Dominican Republic,Villa Altagracia,La Vacama,18.890886,-68.663116,OIE,Confirmed,Domestic,Swine,2/8/2021,25/08/2021,1,8/2/2021,8,2,2021-08,2021
+178,Americas,Caribbean,Dominican Republic,Santiago,the rails,19.4969,-70.7425,OIE,Confirmed,Domestic,Swine,2/8/2021,22/10/2021,1,8/2/2021,8,2,2021-08,2021
+179,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Los Dajaos,19.797,-70.781,OIE,Confirmed,Domestic,Swine,2/8/2021,22/10/2021,1,8/2/2021,8,2,2021-08,2021
+180,Americas,Caribbean,Dominican Republic,Duvergé,Mat?an,19.185854,-70.14716,OIE,Confirmed,Domestic,Swine,1/8/2021,31/08/2021,1,8/1/2021,8,1,2021-08,2021
+182,Americas,Caribbean,Dominican Republic,Esperanza,La cuesta,19.421646,-70.567968,OIE,Confirmed,Domestic,Swine,31/07/2021,31/08/2021,1,7/31/2021,7,31,2021-07,2021
+185,Americas,Caribbean,Dominican Republic,Santiago,Mej?a Abajo,19.548179,-70.879779,OIE,Confirmed,Domestic,Swine,30/07/2021,25/08/2021,1,7/30/2021,7,30,2021-07,2021
+186,Americas,Caribbean,Dominican Republic,Santiago,Barrio Falpo,19.496944,-70.742478,OIE,Confirmed,Domestic,Swine,30/07/2021,21/09/2021,1,7/30/2021,7,30,2021-07,2021
+187,Americas,Caribbean,Dominican Republic,San José de Ocoa,San Luis,18.544887,-70.499607,OIE,Confirmed,Domestic,Swine,29/07/2021,21/09/2021,1,7/29/2021,7,29,2021-07,2021
+188,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Los Dajaos,19.792,-70.748,OIE,Confirmed,Domestic,Swine,29/07/2021,22/10/2021,1,7/29/2021,7,29,2021-07,2021
+189,Americas,Caribbean,Dominican Republic,Santiago,cienfuegos,19.474953,-70.751652,OIE,Confirmed,Domestic,Swine,28/07/2021,22/10/2021,1,7/28/2021,7,28,2021-07,2021
+190,Americas,Caribbean,Dominican Republic,Esperanza,Los Brazos,19.65553,-70.442129,OIE,Confirmed,Domestic,Swine,25/07/2021,25/08/2021,1,7/25/2021,7,25,2021-07,2021
+191,Americas,Caribbean,Dominican Republic,Santiago,Villa Progreso,19.497952,-70.754148,OIE,Confirmed,Domestic,Swine,25/07/2021,22/10/2021,1,7/25/2021,7,25,2021-07,2021
+192,Americas,Caribbean,Dominican Republic,Santiago,Tamboril,19.484212,-70.640937,OIE,Confirmed,Domestic,Swine,19/07/2021,8/8/2021,1,7/19/2021,7,19,2021-07,2021
+193,Americas,Caribbean,Dominican Republic,Santiago,La Emboscada,19.477946,-70.762064,OIE,Confirmed,Domestic,Swine,15/07/2021,31/08/2021,1,7/15/2021,7,15,2021-07,2021
+194,Americas,Caribbean,Dominican Republic,Santo Domingo Este,Hato Nuevo,18.531,-70.083,OIE,Confirmed,Domestic,Swine,15/07/2021,22/10/2021,1,7/15/2021,7,15,2021-07,2021
+196,Americas,Caribbean,Dominican Republic,Santiago,Pu?al  Laguna Prieta,19.403202,-70.652675,OIE,Confirmed,Domestic,Swine,14/07/2021,8/8/2021,1,7/14/2021,7,14,2021-07,2021
+198,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,Maimon,19.805,-70.782,OIE,Confirmed,Domestic,Swine,12/7/2021,22/10/2021,1,7/12/2021,7,12,2021-07,2021
+200,Americas,Caribbean,Dominican Republic,Santo Domingo Este,Hacienda Estrella,18.674,-69.867,OIE,Confirmed,Domestic,Swine,8/7/2021,22/10/2021,1,7/8/2021,7,8,2021-07,2021
+201,Americas,Caribbean,Dominican Republic,Santiago,La Mosca,19.473384,-70.749064,OIE,Confirmed,Domestic,Swine,5/7/2021,31/08/2021,1,7/5/2021,7,5,2021-07,2021
+202,Americas,Caribbean,Dominican Republic,Santiago,La Emboscada,19.478156,-70.761996,OIE,Confirmed,Domestic,Swine,5/7/2021,31/08/2021,1,7/5/2021,7,5,2021-07,2021
+203,Americas,Caribbean,Dominican Republic,Duvergé,Caobete,19.184945,-70.12643,OIE,Confirmed,Domestic,Swine,2/7/2021,8/8/2021,1,7/2/2021,7,2,2021-07,2021
+204,Americas,Caribbean,Dominican Republic,Duvergé,Caobete,19.184945,-70.12643,OIE,Confirmed,Domestic,Swine,2/7/2021,8/8/2021,1,7/2/2021,7,2,2021-07,2021
+205,Americas,Caribbean,Dominican Republic,Santiago,Villa Olimpica,19.438,-70.689,OIE,Confirmed,Domestic,Swine,2/7/2021,22/10/2021,1,7/2/2021,7,2,2021-07,2021
+206,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Loma de Casta?uela,19.698838,-71.497184,OIE,Confirmed,Domestic,Swine,1/7/2021,7/8/2021,1,7/1/2021,7,1,2021-07,2021
+207,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Casta?uela Hill,19.698838,-71.497184,OIE,Confirmed,Domestic,Swine,1/7/2021,8/8/2021,1,7/1/2021,7,1,2021-07,2021
+208,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Las Matas de Santa Cruz,19.659347,-71.628182,OIE,Confirmed,Domestic,Swine,1/7/2021,8/8/2021,1,7/1/2021,7,1,2021-07,2021
+209,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,LA MINA,19.638838,-71.497184,OIE,Confirmed,Domestic,Swine,27/06/2021,27/06/2021,1,6/27/2021,6,27,2021-06,2021
+210,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Palo verde  El Ahogado,19.750278,-71.544833,OIE,Confirmed,Domestic,Swine,26/06/2021,8/8/2021,1,6/26/2021,6,26,2021-06,2021
+211,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Las Aguas,19.848693,-71.633121,OIE,Confirmed,Domestic,Swine,26/06/2021,8/8/2021,1,6/26/2021,6,26,2021-06,2021
+212,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Palo Verde  La Cruz,19.652459,-71.510049,OIE,Confirmed,Domestic,Swine,26/06/2021,8/8/2021,1,6/26/2021,6,26,2021-06,2021
+213,Americas,Caribbean,Dominican Republic,Santo Domingo Este,San Jos? Samba,19.5281,-71.31032,OIE,Confirmed,Domestic,Swine,24/06/2021,8/8/2021,1,6/24/2021,6,24,2021-06,2021
+214,Americas,Caribbean,Dominican Republic,Santo Domingo Este,Los Alcarrizos  Hato Nuevo,18.530678,-70.083456,OIE,Confirmed,Domestic,Swine,24/06/2021,8/8/2021,1,6/24/2021,6,24,2021-06,2021
+215,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Gozuela  Plamarito,19.65912,-71.642143,OIE,Confirmed,Domestic,Swine,23/06/2021,8/8/2021,1,6/23/2021,6,23,2021-06,2021
+216,Americas,Caribbean,Dominican Republic,San Juan,Las Charcas de Mar?a Nova,18.828651,-71.371617,OIE,Confirmed,Domestic,Swine,20/06/2021,8/8/2021,1,6/20/2021,6,20,2021-06,2021
+217,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Gonzuela  Palmarito,19.659121,-71.642143,OIE,Confirmed,Domestic,Swine,19/06/2021,8/8/2021,1,6/19/2021,6,19,2021-06,2021
+218,Americas,Caribbean,Dominican Republic,San Fernando de Monte Cristi,Palo Verde,19.739959,-71.627554,OIE,Confirmed,Domestic,Swine,18/06/2021,8/8/2021,1,6/18/2021,6,18,2021-06,2021
+219,Americas,Caribbean,Dominican Republic,Santiago,La Emboscada,19.476986,-70.761149,OIE,Confirmed,Domestic,Swine,17/06/2021,31/08/2021,1,6/17/2021,6,17,2021-06,2021
+220,Americas,Caribbean,Dominican Republic,Dajabón,Ca?ongo,19.61932,-71.69449,OIE,Confirmed,Domestic,Swine,6/6/2021,8/8/2021,1,6/6/2021,6,6,2021-06,2021
+221,Americas,Caribbean,Dominican Republic,Dajabón,Sabana Santiago,19.56357,-71.67944,OIE,Confirmed,Domestic,Swine,5/6/2021,8/8/2021,1,6/5/2021,6,5,2021-06,2021
+222,Americas,Caribbean,Dominican Republic,San Juan,El Naranjo,18.82507,-71.5556,OIE,Confirmed,Domestic,Swine,13/05/2021,8/8/2021,1,5/13/2021,5,13,2021-05,2021
+223,Americas,Caribbean,Dominican Republic,San Felipe de Puerto Plata,El?as Pi?a  El pino,18.87527,-71.68861,OIE,Confirmed,Domestic,Swine,5/5/2021,8/8/2021,1,5/5/2021,5,5,2021-05,2021
+224,Americas,Caribbean,Dominican Republic,Concepción de la Vega,Jamo  El Higuero,19.233,-70.519,National authorities,Confirmed,Domestic,Swine,10/4/2021,27/07/2021,1,4/10/2021,4,10,2021-04,2021

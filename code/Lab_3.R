@@ -37,16 +37,16 @@ percon<-data%>%
 count_cases <- world %>%
   dplyr::left_join(percon, by = "admin")
 
-percon<-data%>%
-  group_by(admin)%>%
-  dplyr::count(ID, sort = TRUE)%>%
-  filter(n>1)%>%
-  ungroup() %>%
-  arrange(desc(n))
+# percon<-data%>%
+  #group_by(admin)%>%
+  #dplyr::count(ID, sort = TRUE)%>%
+  #filter(n>1)%>%
+  #ungroup() %>%
+  #arrange(desc(n))
 
 ## merge all
-count_cases <- world %>%
-  dplyr::left_join(percon, by = "admin")
+#count_cases <- world %>%
+#  dplyr::left_join(percon, by = "admin")
 
 DR<-count_cases%>%
   filter(admin=="Dominican Republic")
@@ -54,7 +54,7 @@ DR<-count_cases%>%
 DRadmin<-data%>%
   filter(admin=="Dominican Republic")
 
-## donwload DR
+## download DR
 ar11<-raster::getData("GADM", country="DOM", level=2)
 names(ar11)[7]<-"admin1"
 ar11<-st_as_sf(ar11) ## to merge
@@ -64,8 +64,12 @@ ggplot(data = ar11) +
 
 names(DRadmin)[4]<-"admin1"
 
+#write.csv(DRadmin, file="./data/DRadmin.csv")
+library(readr)
+DRadmin_new <- read.csv("./data/DRadmin_new.csv")
+DRadmin_new$admin1 <- enc2utf8(DRadmin_new$admin1)
 ## merge all
-count_muni <- DRadmin %>%
+count_muni <- DRadmin_new %>%
   dplyr::left_join(ar11, by = "admin1")
 
 count_county<-count_muni%>%
@@ -111,7 +115,7 @@ ggplot(data = count_muni, aes(fill =alt)) +
         axis.text.y = element_text(face = "bold",size = 13))
 
 ## regression
-space.and.ndvi <- lm(as.numeric(n)~as.numeric(alt),
+space.and.ndvi <- lm(as.numeric(n)~as.numeric(alt)+ as.numeric(temp),
                      data=count_muni)
 summary(space.and.ndvi)
 
