@@ -1,4 +1,11 @@
 ## final regression analysis from the data extracted from raster
+library("rnaturalearth")
+library("rnaturalearthdata")
+# Load packages
+library(ggpubr); library(tidyverse);
+library(sf); library(dplyr)
+library(viridis); 
+library(mapview);library(ggmap);library(lubridate)
 library(maptools)
 library(raster)
 library(plyr)
@@ -98,7 +105,7 @@ for (i in 1:length(count_muni)){
 count_muni$alt<-ex$DOM_msk_alt
 ggplot(data = count_muni, aes(fill =alt)) +
   geom_sf(size = .05,color="grey") +
-  scale_fill_viridis(option = "plasma",name="Total-2005-2019")+
+  scale_fill_viridis(option = "plasma",name="Altitude")+
   theme(text = element_text(size = 13, face = "bold"),
         axis.text.x = element_text(face = "bold",size = 13),
         axis.text.y = element_text(face = "bold",size = 13))
